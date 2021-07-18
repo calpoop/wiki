@@ -11,4 +11,4 @@ This wiki might be better off without a search engine. Keep digging into the [ho
 This wiki does NOT contain:
 - external links
 - photos, videos, multimedia content other than formatted text
-- verbs or actions
+- pages on verbs or actions
