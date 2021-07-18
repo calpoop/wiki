@@ -8,8 +8,7 @@ I recommend navigating this wiki without clicking on the back button of your bro
 
 This wiki might be better off without a search engine. Keep digging into the [hole](hole.md) and remember your [path](path.md)!  
 
-This wiki does NOT contain:  
-
-    - external links
-    - photos, videos, multimedia content other than formatted text
-    - verbs or actions
+This wiki does NOT contain:
+- external links
+- photos, videos, multimedia content other than formatted text
+- verbs or actions
