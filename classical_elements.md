@@ -2,5 +2,5 @@
 
 - [Fire](fire.md)
 - [Air](air.md)
-- [Water](water.md) water
-- [Earth](earth.md) earth
+- [Water](water.md)
+- [Earth](earth.md)
