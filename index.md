@@ -1,3 +1,3 @@
 ## calpoop
 
-calpoop is an [absolutely ambiguous](adbsolutely_ambiguous.md) [person](person.md).
+calpoop is an [absolutely ambiguous](absolutely_ambiguous.md) [person](person.md).
