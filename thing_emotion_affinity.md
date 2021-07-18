@@ -8,3 +8,8 @@ Imagine that every single [thing](thing.md) you see is also an [emotion](emotion
 
 takes on another [level](level.md)
 
+[Fire](fire.md) may also have a relationship with [earth](earth.md) like this.
+
+Is earth solidified fire? Is a thing a solidified emotion? Is it all fire? Is it all earth?
+
+Is it both? Should it be both?
